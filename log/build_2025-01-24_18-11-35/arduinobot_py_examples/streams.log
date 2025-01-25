@@ -1,0 +1,21 @@
+[2.707s] Invoking command in '/home/nazmul/arduinobot_ws/src/arduinobot_py_examples': DEBUGINFOD_URLS=https://debuginfod.ubuntu.com PYTHONPATH=/home/nazmul/arduinobot_ws/build/arduinobot_py_examples/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/nazmul/arduinobot_ws/install/arduinobot_py_examples/lib/python3.12/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/arduinobot_py_examples build --build-base /home/nazmul/arduinobot_ws/build/arduinobot_py_examples/build install --record /home/nazmul/arduinobot_ws/build/arduinobot_py_examples/install.log --single-version-externally-managed install_data
+[3.395s] running egg_info
+[3.449s] writing ../../build/arduinobot_py_examples/arduinobot_py_examples.egg-info/PKG-INFO
+[3.450s] writing dependency_links to ../../build/arduinobot_py_examples/arduinobot_py_examples.egg-info/dependency_links.txt
+[3.450s] writing entry points to ../../build/arduinobot_py_examples/arduinobot_py_examples.egg-info/entry_points.txt
+[3.451s] writing requirements to ../../build/arduinobot_py_examples/arduinobot_py_examples.egg-info/requires.txt
+[3.451s] writing top-level names to ../../build/arduinobot_py_examples/arduinobot_py_examples.egg-info/top_level.txt
+[3.562s] reading manifest file '../../build/arduinobot_py_examples/arduinobot_py_examples.egg-info/SOURCES.txt'
+[3.564s] writing manifest file '../../build/arduinobot_py_examples/arduinobot_py_examples.egg-info/SOURCES.txt'
+[3.564s] running build
+[3.564s] running build_py
+[3.565s] running install
+[3.580s] running install_lib
+[3.636s] running install_data
+[3.638s] running install_egg_info
+[3.697s] removing '/home/nazmul/arduinobot_ws/install/arduinobot_py_examples/lib/python3.12/site-packages/arduinobot_py_examples-0.0.0-py3.12.egg-info' (and everything under it)
+[3.698s] Copying ../../build/arduinobot_py_examples/arduinobot_py_examples.egg-info to /home/nazmul/arduinobot_ws/install/arduinobot_py_examples/lib/python3.12/site-packages/arduinobot_py_examples-0.0.0-py3.12.egg-info
+[3.702s] running install_scripts
+[4.048s] Installing simple_publisher script to /home/nazmul/arduinobot_ws/install/arduinobot_py_examples/lib/arduinobot_py_examples
+[4.051s] writing list of installed files to '/home/nazmul/arduinobot_ws/build/arduinobot_py_examples/install.log'
+[4.159s] Invoked command in '/home/nazmul/arduinobot_ws/src/arduinobot_py_examples' returned '0': DEBUGINFOD_URLS=https://debuginfod.ubuntu.com PYTHONPATH=/home/nazmul/arduinobot_ws/build/arduinobot_py_examples/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/nazmul/arduinobot_ws/install/arduinobot_py_examples/lib/python3.12/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/arduinobot_py_examples build --build-base /home/nazmul/arduinobot_ws/build/arduinobot_py_examples/build install --record /home/nazmul/arduinobot_ws/build/arduinobot_py_examples/install.log --single-version-externally-managed install_data
